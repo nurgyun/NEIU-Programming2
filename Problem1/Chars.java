@@ -1,4 +1,4 @@
-public class Charsa
+public class CharsCount
  {
    private char[][] ch;
    private String str;
