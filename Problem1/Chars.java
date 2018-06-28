@@ -1,5 +1,5 @@
-public class CharsCount
- {
+public class Chars
+{
    private char[][] ch;
    private String str;
    
